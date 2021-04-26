@@ -1,0 +1,25 @@
+{
+  "name": "programacion-web-2-nodejs-express",
+  "version": "1.0.0",
+  "description": "Programación Web 2: Node.JS & Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:express": "node index-express.js",
+    "start:http": "node index-http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patagonian-IUPA/programacion-web-2-nodejs-express.git"
+  },
+  "author": "Eduardo Cuomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patagonian-IUPA/programacion-web-2-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/Patagonian-IUPA/programacion-web-2-nodejs-express#readme"
+}
